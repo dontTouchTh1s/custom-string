@@ -1,0 +1,6 @@
+C:\Users\alim2\RiderProjects\CustomString\CustomString\bin\Debug\CustomString.exe
+C:\Users\alim2\RiderProjects\CustomString\CustomString\bin\Debug\CustomString.pdb
+C:\Users\alim2\RiderProjects\CustomString\CustomString\obj\Debug\CustomString.csproj.AssemblyReference.cache
+C:\Users\alim2\RiderProjects\CustomString\CustomString\obj\Debug\CustomString.csproj.CoreCompileInputs.cache
+C:\Users\alim2\RiderProjects\CustomString\CustomString\obj\Debug\CustomString.exe
+C:\Users\alim2\RiderProjects\CustomString\CustomString\obj\Debug\CustomString.pdb
